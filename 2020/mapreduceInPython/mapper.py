@@ -19,7 +19,7 @@ def main():
         # results = []
         print("%s\t%s" % (stockTimeStamp,aRecord[2]))
 
-        
+          
 if __name__ =="__main__":
     tic = time.time()
     main()
